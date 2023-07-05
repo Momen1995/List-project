@@ -3,3 +3,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: crimson;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul{
+    background-color: rgba(0,0,0,0.1);
+    width : 360px;
+    margin : 50px auto;
+    padding: 30px;
+}
+
+ul li{
+    list-style-type: none;
+    background-color: rgba(0,0,0,0.1);
+    margin-bottom: 15px;
+    padding: 10px;
+    color: white;
+    font-size: 1.2rem;
+    cursor:pointer
+}
